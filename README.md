@@ -1,2 +1,2 @@
-# john_avi_projects
+# avi_john_projects
 ML projects
